@@ -8,7 +8,7 @@ Quyida ko'rsatilganlarni qadamma qadam bajaring
 
 ## 1 - Windows'ni obrazini tayorlash
 
-    Windows (iso) falyni fleskaga **Rufus**, **PowerISO** yoki istalgan soft yordamida o'rnatishga tayyor qilib yuklang
+    Windows (iso) falyni fleskaga  `Rufus`, `PowerISO` yoki istalgan soft yordamida o'rnatishga tayyor qilib yuklang
     
     Bu fleshkani kompyuteringizga ulan va restart(перезапуск) qiling, kompyuter yonish jarayonida Boot Menu ga oting, 
     Boot Menu ga o'tish uchun odatda F2, F10, F12 Tugmalaridan foydalanasiz
@@ -16,7 +16,7 @@ Quyida ko'rsatilganlarni qadamma qadam bajaring
  
 ### 2 - Regedit-ni oching
 
-    Media-dan yuklangandan so'ng, Windows Setup oynasi ochiladi. Bu orqali davom etish o'rniga **Shift + F10** tugmalarini bosib,
+    Media-dan yuklangandan so'ng, Windows Setup oynasi ochiladi. Bu orqali davom etish o'rniga `Shift + F10` tugmalarini bosib,
     CMD(Command Prompt window) oynasini oching
     
   ![image](https://user-images.githubusercontent.com/61009662/125897279-5654df7e-6b94-445e-9e6f-3d320b5dd9d8.png)
