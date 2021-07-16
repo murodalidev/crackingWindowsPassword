@@ -77,7 +77,7 @@ Quyida ko'rsatilganlarni qadamma qadam bajaring
 
 ###### Kompyuter yangidan yonganida sizda endi **CMD** oynasi to'g'ridan to'g'ri ochiladi
  
-###4 - Parolni tiklash uchun CMD oynasida quyidagi buyruqlarini ishga tushiring
+### 4 - Parolni tiklash uchun CMD oynasida quyidagi buyruqlarini ishga tushiring
 
 >Parolni qayta tiklash uchun `net user` buyrug'idan foydalanamiz. Bu `net user <username> <new password>` ni terib **Enter** tugmasini bosish orqali amalga oshiriladi.
 >
@@ -102,6 +102,6 @@ Buyerda `<newuser>` ga istalgan *username* va `<newpassword>` ga istalgan paroli
 
 
 
-## *Regedit* va *CMD* yoping, kompyuterni qayta yoqing (reboot) va kompyiter qayta yonganidan keyin siz yangi kiritgan parolingiz bilan kirishingiz mumkin.
+###### *Regedit* va *CMD* yoping, kompyuterni qayta yoqing (reboot) va kompyiter qayta yonganidan keyin siz yangi kiritgan parolingiz bilan kirishingiz mumkin.
 
 
