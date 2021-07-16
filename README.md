@@ -1,4 +1,4 @@
-# crackWindows
+# cracking Windows Password
 
 Windows sistemangizni parolini unitib qoydingizmi yoki parollangan windows sistemani paroldan ochmoqchi bolsangiz bu maqola sizga yozdam beradi :)
 
