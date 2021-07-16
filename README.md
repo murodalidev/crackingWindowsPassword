@@ -102,6 +102,6 @@ Buyerda `<newuser>` ga istalgan *username* va `<newpassword>` ga istalgan paroli
 
 
 
-###### *Regedit* va *CMD* yoping, kompyuterni qayta yoqing (reboot) va kompyiter qayta yonganidan keyin siz yangi kiritgan parolingiz bilan kirishingiz mumkin.
+##### *Regedit* va *CMD* yoping, kompyuterni qayta yoqing (reboot) va kompyiter qayta yonganidan keyin siz yangi kiritgan parolingiz bilan kirishingiz mumkin.
 
 
