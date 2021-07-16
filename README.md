@@ -6,7 +6,7 @@ Men buni Windows Regedit yordamida amalga oshiraman. Ushbu jarayonni **Windows 7
 
 Quyida ko'rsatilganlarni qadamma qadam bajaring
 
-### 1 - Windows'ni obrazini tayorlash
+### 1 - Windows'ni obrazini tayyorlash
 
 >Windows (iso) falyni fleskaga **Rufus**, **PowerISO** yoki istalgan soft yordamida o'rnatishga tayyor qilib yuklang. 
 >Bu fleshkani kompyuteringizga ulan va _reboot(перезагружать)_ qiling, kompyuter yonish jarayonida Boot Menu ga oting, 
