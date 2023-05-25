@@ -2,7 +2,7 @@
 
 Windows sistemangizni parolini unitib qoydingizmi yoki parollangan windows sistemani paroldan ochmoqchi bolsangiz bu maqola sizga yozdam beradi :)
 
-Men buni Windows Regedit yordamida amalga oshiraman. Ushbu jarayonni **Windows 7, Windows 8, Windows 8.1 va Windows 10** da muvaffaqiyatli sinovdan o'tkazdim.
+Men buni Windows Regedit yordamida amalga oshiraman. Ushbu jarayonni **Windows 7, Windows 8, Windows 8.1 va Windows 10**da muvaffaqiyatli sinovdan o'tkazdim **windows 11**da ham ishlashiga ishonaman.
 
 Quyida ko'rsatilganlarni qadamma qadam bajaring
 
